@@ -199,7 +199,7 @@ First, navigate to the module folder:
 cd modules/module-01-move-the-square
 ```
 
-Then follow the build instructions for your operating system in the [Setup Guide](../setup/).
+Then follow the build instructions for your operating system in the [Setup Guide](/setup/).
 
 ### Expected Result
 

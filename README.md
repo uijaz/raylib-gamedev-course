@@ -59,8 +59,9 @@ Please open an issue or pull request.
 
 ## 📚 Based On
 
-- *The C Programming Language* (K&R)
-- [raylib](https://www.raylib.com/)
+- [*The C Programming Language* (K&R)](https://www.columbia.edu/~ng2573/c89/kr2.pdf)
+- [raylib website](https://www.raylib.com/)
+- [raylib repo](https://github.com/raysan5/raylib)
 
 ---
 
