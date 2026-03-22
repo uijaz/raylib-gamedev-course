@@ -41,6 +41,22 @@ I'm building this course in my spare time. Modules are added as I complete them.
 
 ---
 
+## 🤝 Contributing
+
+Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
+
+Areas where help is needed:
+
+- Adding setup guides for Linux and Windows
+- Improving explanations and examples
+- Adding stretch goals
+- Testing on different platforms
+- Fixing typos and bugs
+
+Please open an issue or pull request.
+
+---
+
 ## 📚 Based On
 
 - *The C Programming Language* (K&R)
